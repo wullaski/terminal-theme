@@ -1327,11 +1327,11 @@
 	<key>VisualBellOnlyWhenMuted</key>
 	<false/>
 	<key>columnCount</key>
-	<integer>123</integer>
+	<integer>98</integer>
 	<key>name</key>
-	<string>Material Shell - Ocean</string>
+	<string>craigshell</string>
 	<key>rowCount</key>
-	<integer>29</integer>
+	<integer>28</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
