@@ -1327,11 +1327,11 @@
 	<key>VisualBellOnlyWhenMuted</key>
 	<false/>
 	<key>columnCount</key>
-	<integer>98</integer>
+	<integer>202</integer>
 	<key>name</key>
 	<string>craigshell</string>
 	<key>rowCount</key>
-	<integer>28</integer>
+	<integer>24</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
