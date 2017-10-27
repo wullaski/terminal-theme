@@ -1,4 +1,4 @@
-# My Terminal Theme. 
+# HudsonCreek -- A terminal theme for lumberjacks.
 Based on [materialshell](https://github.com/carloscuesta/materialshell).
 #### Using in conjuction with: 
 * [Fira Code](https://github.com/tonsky/FiraCode) 
